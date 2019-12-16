@@ -1,0 +1,211 @@
+{
+  "tv": [
+    {
+      "id": 1,
+      "brand": "lg",
+      "inches": 24,
+      "price": 2500,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505772/icons/LG-Logo_k3dokp.png"
+    },
+    {
+      "brand": "lg",
+      "inches": 32,
+      "price": 60000,
+      "id": 2,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505772/icons/LG-Logo_k3dokp.png"
+    },
+    {
+      "brand": "lg",
+      "inches": 42,
+      "price": 85000,
+      "id": 3,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505772/icons/LG-Logo_k3dokp.png"
+    },
+    {
+      "brand": "lg",
+      "inches": 48,
+      "price": 90000,
+      "id": 4,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505772/icons/LG-Logo_k3dokp.png"
+    },
+    {
+      "brand": "lg",
+      "inches": 55,
+      "price": 150000,
+      "id": 5,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505830/icons/Samsung_Logo_h4xtsl.svg" 
+    },
+    {
+      "brand": "samsung",
+      "inches": 55,
+      "price": 150000,
+      "id": 6,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505830/icons/Samsung_Logo_h4xtsl.svg" 
+    },
+    {
+      "brand": "samsung",
+      "inches": 48,
+      "price": 80000,
+      "id": 7,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505830/icons/Samsung_Logo_h4xtsl.svg" 
+    },
+    {
+      "brand": "samsung",
+      "inches": 32,
+      "price": 45000,
+      "id": 8,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505830/icons/Samsung_Logo_h4xtsl.svg" 
+    },
+    {
+      "brand": "samsung",
+      "inches": 42,
+      "price": 60000,
+      "id": 9,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505830/icons/Samsung_Logo_h4xtsl.svg" 
+    },
+    {
+      "brand": "samsung",
+      "inches": 24,
+      "price": 30000,
+      "id": 10,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576505830/icons/Samsung_Logo_h4xtsl.svg" 
+    },
+    {
+      "brand": "hisense",
+      "inches": 24,
+      "price": 25000,
+      "id": 11,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506241/icons/Hisense-emblem_hkyvl4.jpg"
+    },
+    {
+      "brand": "hisense",
+      "inches": 32,
+      "price": 43000,
+      "id": 12,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506241/icons/Hisense-emblem_hkyvl4.jpg"
+    },
+    {
+      "brand": "hisense",
+      "inches": 42,
+      "price": 60000,
+      "id": 13,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506241/icons/Hisense-emblem_hkyvl4.jpg"
+    },
+    {
+      "brand": "hisense",
+      "inches": 48,
+      "price": 70000,
+      "id": 14,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506241/icons/Hisense-emblem_hkyvl4.jpg"
+    },
+    {
+      "brand": "hisense",
+      "inches": 55,
+      "price": 105000,
+      "id": 15,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506241/icons/Hisense-emblem_hkyvl4.jpg"
+    },
+    {
+      "brand": "sharp",
+      "inches": 55,
+      "price": 185000,
+      "id": 16,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506165/icons/SHARP_Logo_jsws3x.jpg"
+    },
+    {
+      "brand": "sharp",
+      "inches": 48,
+      "price": 105000,
+      "id": 17,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506165/icons/SHARP_Logo_jsws3x.jpg"
+    },
+    {
+      "brand": "sharp",
+      "inches": 42,
+      "price": 90000,
+      "id": 18,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506165/icons/SHARP_Logo_jsws3x.jpg"
+    },
+    {
+      "brand": "sharp",
+      "inches": 32,
+      "price": 70000,
+      "id": 19,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506165/icons/SHARP_Logo_jsws3x.jpg"
+    },
+    {
+      "brand": "sharp",
+      "inches": 24,
+      "price": 40000,
+      "id": 20,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506165/icons/SHARP_Logo_jsws3x.jpg"
+    },
+    {
+      "brand": "tcl",
+      "inches": 24,
+      "price": 25000,
+      "id": 21,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506122/icons/becf689093e3084774b593c37d7e1c1f_gezjju.png"
+    },
+    {
+      "brand": "tcl",
+      "inches": 32,
+      "price": 40000,
+      "id": 22,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506122/icons/becf689093e3084774b593c37d7e1c1f_gezjju.png"
+    },
+    {
+      "brand": "tcl",
+      "inches": 42,
+      "price": 60000,
+      "id": 23,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506122/icons/becf689093e3084774b593c37d7e1c1f_gezjju.png"
+    },
+    {
+      "brand": "tcl",
+      "inches": 48,
+      "price": 80000,
+      "id": 24,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506122/icons/becf689093e3084774b593c37d7e1c1f_gezjju.png"
+    },
+    {
+      "brand": "tcl",
+      "inches": 55,
+      "price": 95000,
+      "id": 25,
+      "avatar": "https://res.cloudinary.com/kayode/image/upload/v1576506122/icons/becf689093e3084774b593c37d7e1c1f_gezjju.png"
+    }
+  ],
+  "installation": [
+    {
+      "id": 1,
+      "option": "stabilizer",
+      "price": 2500
+    },
+    {
+      "options": "Tv-guard",
+      "price": 2500,
+      "id": 2
+    },
+    {
+      "options": "GOTV",
+      "price": 7000,
+      "id": 3
+    },
+    {
+      "options": "DSTV",
+      "price": 15000,
+      "id": 4
+    },
+    {
+      "options": "installation",
+      "price": 4000,
+      "id": 5
+    },
+    {
+      "options": "deleivery",
+      "price": 1200,
+      "id": 6
+    }
+  ]
+}
