@@ -179,7 +179,7 @@
   "installation": [
     {
       "id": 1,
-      "option": "stabilizer",
+      "options": "stabilizer",
       "price": 2500
     },
     {
